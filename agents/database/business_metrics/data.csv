@@ -1,0 +1,925 @@
+date,metric_name,metric_description,metric_owner,metric_value,period_type,period_value
+2022-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06279107911114418,Calendar Period,2022_January
+2022-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05945409180630849,Calendar Period,2022_February
+2022-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0591555218538237,Calendar Period,2022_March
+2022-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05879009966262594,Calendar Period,2022_April
+2022-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05674652176970444,Calendar Period,2022_May
+2022-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.054605078198083044,Calendar Period,2022_June
+2022-07-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.051952789853868954,Calendar Period,2022_July
+2022-08-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05226053572188364,Calendar Period,2022_August
+2022-09-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.049655150379876084,Calendar Period,2022_September
+2022-10-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.055974019915571716,Calendar Period,2022_October
+2022-11-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05662616307366768,Calendar Period,2022_November
+2022-12-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.054963489403649805,Calendar Period,2022_December
+2023-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.053310589445674864,Calendar Period,2023_January
+2023-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.04800431148485191,Calendar Period,2023_February
+2023-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.051071975118537546,Calendar Period,2023_March
+2023-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0544872025211378,Calendar Period,2023_April
+2023-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05841630687663458,Calendar Period,2023_May
+2023-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0656362502160378,Calendar Period,2023_June
+2023-07-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06250544989660503,Calendar Period,2023_July
+2023-08-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06644937013678767,Calendar Period,2023_August
+2023-09-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.059341889948544,Calendar Period,2023_September
+2023-10-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.056712882202824076,Calendar Period,2023_October
+2023-11-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0590156141859524,Calendar Period,2023_November
+2023-12-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05503977636344086,Calendar Period,2023_December
+2024-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05831597172616287,Calendar Period,2024_January
+2024-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05285250288026627,Calendar Period,2024_February
+2024-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.060740493718686644,Calendar Period,2024_March
+2024-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0509645180874506,Calendar Period,2024_April
+2024-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05885287497956589,Calendar Period,2024_May
+2024-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06674177699183964,Calendar Period,2024_June
+2024-07-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06408804204905638,Calendar Period,2024_July
+2024-08-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.052490882480136024,Calendar Period,2024_August
+2024-09-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05045557432700815,Calendar Period,2024_September
+2024-10-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.049081329652437125,Calendar Period,2024_October
+2024-11-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.047202996496290034,Calendar Period,2024_November
+2024-12-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.054074173262057636,Calendar Period,2024_December
+2025-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.051369750065413555,Calendar Period,2025_January
+2025-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05498374938601732,Calendar Period,2025_February
+2025-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05173489407933217,Calendar Period,2025_March
+2025-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05286325450691842,Calendar Period,2025_April
+2025-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.04874953085611487,Calendar Period,2025_May
+2025-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05420593692286827,Calendar Period,2025_June
+2022-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04432946965146987,Calendar Period,2022_January
+2022-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04454248465613614,Calendar Period,2022_February
+2022-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04865771822080473,Calendar Period,2022_March
+2022-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.051923469717200244,Calendar Period,2022_April
+2022-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.057543763922696035,Calendar Period,2022_May
+2022-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05496985139093489,Calendar Period,2022_June
+2022-07-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04979021913676578,Calendar Period,2022_July
+2022-08-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.048050539583232466,Calendar Period,2022_August
+2022-09-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05093624081778195,Calendar Period,2022_September
+2022-10-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05535307033409389,Calendar Period,2022_October
+2022-11-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05593029426140955,Calendar Period,2022_November
+2022-12-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.053260399738884474,Calendar Period,2022_December
+2023-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05287495605700946,Calendar Period,2023_January
+2023-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04944069444104934,Calendar Period,2023_February
+2023-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04475692974484639,Calendar Period,2023_March
+2023-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.0406085157209595,Calendar Period,2023_April
+2023-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.03664739739424134,Calendar Period,2023_May
+2023-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04275731023943819,Calendar Period,2023_June
+2023-07-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04482195578026841,Calendar Period,2023_July
+2023-08-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.049593370835048105,Calendar Period,2023_August
+2023-09-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05230493146167123,Calendar Period,2023_September
+2023-10-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.051654293942396706,Calendar Period,2023_October
+2023-11-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.050672416261105975,Calendar Period,2023_November
+2023-12-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.049152262907275535,Calendar Period,2023_December
+2024-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04894732227070301,Calendar Period,2024_January
+2024-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04561329213863465,Calendar Period,2024_February
+2024-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04095529528234184,Calendar Period,2024_March
+2024-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.040279526499965655,Calendar Period,2024_April
+2024-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04880670392510345,Calendar Period,2024_May
+2024-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05399039319160995,Calendar Period,2024_June
+2024-07-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.058712217884174134,Calendar Period,2024_July
+2024-08-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05812984726262558,Calendar Period,2024_August
+2024-09-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.058085364235972554,Calendar Period,2024_September
+2024-10-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05361702725972869,Calendar Period,2024_October
+2024-11-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05382801134275128,Calendar Period,2024_November
+2024-12-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05118471299291665,Calendar Period,2024_December
+2025-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.057393413955696915,Calendar Period,2025_January
+2025-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05742873697003207,Calendar Period,2025_February
+2025-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.055215349300594206,Calendar Period,2025_March
+2025-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04824146699423034,Calendar Period,2025_April
+2025-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04155990562041483,Calendar Period,2025_May
+2025-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04265094875695876,Calendar Period,2025_June
+2022-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04103165563345655,Calendar Period,2022_January
+2022-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06727961206236346,Calendar Period,2022_February
+2022-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04776339944800051,Calendar Period,2022_March
+2022-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.059875668530619465,Calendar Period,2022_April
+2022-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.049351332282682334,Calendar Period,2022_May
+2022-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.055602040635334325,Calendar Period,2022_June
+2022-07-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.056401308380298394,Calendar Period,2022_July
+2022-08-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04554563366576581,Calendar Period,2022_August
+2022-09-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06908753883293677,Calendar Period,2022_September
+2022-10-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06325398470083345,Calendar Period,2022_October
+2022-11-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06818496824692567,Calendar Period,2022_November
+2022-12-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06684482051282947,Calendar Period,2022_December
+2023-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.05793699936433256,Calendar Period,2023_January
+2023-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.0676562270506935,Calendar Period,2023_February
+2023-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.042654775061557584,Calendar Period,2023_March
+2023-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04587948587257436,Calendar Period,2023_April
+2023-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04135681866731614,Calendar Period,2023_May
+2023-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04975990992289793,Calendar Period,2023_June
+2023-07-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.051660318690684465,Calendar Period,2023_July
+2023-08-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04814047095321688,Calendar Period,2023_August
+2023-09-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06486212527455788,Calendar Period,2023_September
+2023-10-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.05070259980080768,Calendar Period,2023_October
+2023-11-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.048428035290621424,Calendar Period,2023_November
+2023-12-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.056280882494747456,Calendar Period,2023_December
+2024-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04422772674924288,Calendar Period,2024_January
+2024-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06406590942262119,Calendar Period,2024_February
+2024-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04223651931039313,Calendar Period,2024_March
+2024-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06960660809801553,Calendar Period,2024_April
+2024-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06316734307889973,Calendar Period,2024_May
+2024-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04596147044602517,Calendar Period,2024_June
+2024-07-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04016566351370807,Calendar Period,2024_July
+2024-08-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06446384285364504,Calendar Period,2024_August
+2024-09-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06120572031542852,Calendar Period,2024_September
+2024-10-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06187021504122962,Calendar Period,2024_October
+2024-11-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06313811040057837,Calendar Period,2024_November
+2024-12-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04222133955202271,Calendar Period,2024_December
+2025-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.050753971856328184,Calendar Period,2025_January
+2025-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04347607178575389,Calendar Period,2025_February
+2025-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06589310277626781,Calendar Period,2025_March
+2025-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.05869894380482674,Calendar Period,2025_April
+2025-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.049926940745579476,Calendar Period,2025_May
+2025-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04190675050858071,Calendar Period,2025_June
+2022-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.028493872365571254,Calendar Period,2022_January
+2022-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.027546787067619618,Calendar Period,2022_February
+2022-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.015158832554303111,Calendar Period,2022_March
+2022-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02319968092068358,Calendar Period,2022_April
+2022-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.026344444004024314,Calendar Period,2022_May
+2022-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.021104016231989244,Calendar Period,2022_June
+2022-07-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02059301156712013,Calendar Period,2022_July
+2022-08-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.014837045818009034,Calendar Period,2022_August
+2022-09-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.011862055356117984,Calendar Period,2022_September
+2022-10-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02794431515906653,Calendar Period,2022_October
+2022-11-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.028008361143266606,Calendar Period,2022_November
+2022-12-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02266202914546536,Calendar Period,2022_December
+2023-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.016780595820974013,Calendar Period,2023_January
+2023-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.016984191492253217,Calendar Period,2023_February
+2023-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.024519113577404786,Calendar Period,2023_March
+2023-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02794220519905154,Calendar Period,2023_April
+2023-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.027741728485302344,Calendar Period,2023_May
+2023-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.025597510917152476,Calendar Period,2023_June
+2023-07-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.022840632923085753,Calendar Period,2023_July
+2023-08-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.011682799299900976,Calendar Period,2023_August
+2023-09-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.013232574281892276,Calendar Period,2023_September
+2023-10-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.027971083770541583,Calendar Period,2023_October
+2023-11-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.022128581193191797,Calendar Period,2023_November
+2023-12-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.010183941032332593,Calendar Period,2023_December
+2024-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.012029430857320642,Calendar Period,2024_January
+2024-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.023270035382161113,Calendar Period,2024_February
+2024-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.010101231676924375,Calendar Period,2024_March
+2024-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.013216161028349972,Calendar Period,2024_April
+2024-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.020974675787331722,Calendar Period,2024_May
+2024-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.023837903953853865,Calendar Period,2024_June
+2024-07-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02303922519005201,Calendar Period,2024_July
+2024-08-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.014485386189211195,Calendar Period,2024_August
+2024-09-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.024243584426950716,Calendar Period,2024_September
+2024-10-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.014744981749936001,Calendar Period,2024_October
+2024-11-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.016507993963185353,Calendar Period,2024_November
+2024-12-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.024929828102360482,Calendar Period,2024_December
+2025-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02299265798094429,Calendar Period,2025_January
+2025-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.026984468209883556,Calendar Period,2025_February
+2025-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.023152257846006864,Calendar Period,2025_March
+2025-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.021366172066709432,Calendar Period,2025_April
+2025-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.011873495356561849,Calendar Period,2025_May
+2025-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.01735431606118867,Calendar Period,2025_June
+2022-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4446.0,Calendar Period,2022_January
+2022-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2045.0,Calendar Period,2022_February
+2022-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3797.0,Calendar Period,2022_March
+2022-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2693.0,Calendar Period,2022_April
+2022-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3085.0,Calendar Period,2022_May
+2022-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3277.0,Calendar Period,2022_June
+2022-07-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4436.0,Calendar Period,2022_July
+2022-08-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1562.0,Calendar Period,2022_August
+2022-09-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3485.0,Calendar Period,2022_September
+2022-10-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2799.0,Calendar Period,2022_October
+2022-11-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4354.0,Calendar Period,2022_November
+2022-12-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3074.0,Calendar Period,2022_December
+2023-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1225.0,Calendar Period,2023_January
+2023-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4348.0,Calendar Period,2023_February
+2023-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1797.0,Calendar Period,2023_March
+2023-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4680.0,Calendar Period,2023_April
+2023-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3331.0,Calendar Period,2023_May
+2023-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3926.0,Calendar Period,2023_June
+2023-07-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1959.0,Calendar Period,2023_July
+2023-08-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2504.0,Calendar Period,2023_August
+2023-09-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1452.0,Calendar Period,2023_September
+2023-10-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4067.0,Calendar Period,2023_October
+2023-11-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4900.0,Calendar Period,2023_November
+2023-12-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1815.0,Calendar Period,2023_December
+2024-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1658.0,Calendar Period,2024_January
+2024-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4587.0,Calendar Period,2024_February
+2024-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1546.0,Calendar Period,2024_March
+2024-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2215.0,Calendar Period,2024_April
+2024-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4120.0,Calendar Period,2024_May
+2024-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4583.0,Calendar Period,2024_June
+2024-07-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1016.0,Calendar Period,2024_July
+2024-08-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4243.0,Calendar Period,2024_August
+2024-09-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2243.0,Calendar Period,2024_September
+2024-10-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3205.0,Calendar Period,2024_October
+2024-11-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3524.0,Calendar Period,2024_November
+2024-12-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2069.0,Calendar Period,2024_December
+2025-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4444.0,Calendar Period,2025_January
+2025-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3565.0,Calendar Period,2025_February
+2025-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3146.0,Calendar Period,2025_March
+2025-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4963.0,Calendar Period,2025_April
+2025-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2768.0,Calendar Period,2025_May
+2025-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2060.0,Calendar Period,2025_June
+2022-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,379.0,Calendar Period,2022_January
+2022-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1472.0,Calendar Period,2022_February
+2022-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,596.0,Calendar Period,2022_March
+2022-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,401.0,Calendar Period,2022_April
+2022-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,280.0,Calendar Period,2022_May
+2022-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,706.0,Calendar Period,2022_June
+2022-07-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1222.0,Calendar Period,2022_July
+2022-08-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,799.0,Calendar Period,2022_August
+2022-09-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1092.0,Calendar Period,2022_September
+2022-10-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1239.0,Calendar Period,2022_October
+2022-11-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,290.0,Calendar Period,2022_November
+2022-12-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,352.0,Calendar Period,2022_December
+2023-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1080.0,Calendar Period,2023_January
+2023-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1027.0,Calendar Period,2023_February
+2023-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1284.0,Calendar Period,2023_March
+2023-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1379.0,Calendar Period,2023_April
+2023-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1446.0,Calendar Period,2023_May
+2023-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,227.0,Calendar Period,2023_June
+2023-07-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,117.0,Calendar Period,2023_July
+2023-08-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1916.0,Calendar Period,2023_August
+2023-09-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1858.0,Calendar Period,2023_September
+2023-10-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,665.0,Calendar Period,2023_October
+2023-11-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,669.0,Calendar Period,2023_November
+2023-12-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1446.0,Calendar Period,2023_December
+2024-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1995.0,Calendar Period,2024_January
+2024-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,785.0,Calendar Period,2024_February
+2024-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1915.0,Calendar Period,2024_March
+2024-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,725.0,Calendar Period,2024_April
+2024-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1411.0,Calendar Period,2024_May
+2024-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,953.0,Calendar Period,2024_June
+2024-07-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1786.0,Calendar Period,2024_July
+2024-08-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1061.0,Calendar Period,2024_August
+2024-09-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1762.0,Calendar Period,2024_September
+2024-10-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,254.0,Calendar Period,2024_October
+2024-11-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,589.0,Calendar Period,2024_November
+2024-12-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1509.0,Calendar Period,2024_December
+2025-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,884.0,Calendar Period,2025_January
+2025-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1227.0,Calendar Period,2025_February
+2025-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1516.0,Calendar Period,2025_March
+2025-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1934.0,Calendar Period,2025_April
+2025-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,345.0,Calendar Period,2025_May
+2025-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1299.0,Calendar Period,2025_June
+2022-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,115510.0,Calendar Period,2022_January
+2022-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,64748.0,Calendar Period,2022_February
+2022-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,15801.0,Calendar Period,2022_March
+2022-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,160262.0,Calendar Period,2022_April
+2022-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,190761.0,Calendar Period,2022_May
+2022-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,245362.0,Calendar Period,2022_June
+2022-07-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,192065.0,Calendar Period,2022_July
+2022-08-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,39592.0,Calendar Period,2022_August
+2022-09-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,20647.0,Calendar Period,2022_September
+2022-10-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,149788.0,Calendar Period,2022_October
+2022-11-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,229963.0,Calendar Period,2022_November
+2022-12-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,228617.0,Calendar Period,2022_December
+2023-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,230984.0,Calendar Period,2023_January
+2023-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,120627.0,Calendar Period,2023_February
+2023-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,80316.0,Calendar Period,2023_March
+2023-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,12368.0,Calendar Period,2023_April
+2023-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,87575.0,Calendar Period,2023_May
+2023-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,16655.0,Calendar Period,2023_June
+2023-07-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,247549.0,Calendar Period,2023_July
+2023-08-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,80031.0,Calendar Period,2023_August
+2023-09-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,217501.0,Calendar Period,2023_September
+2023-10-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,232155.0,Calendar Period,2023_October
+2023-11-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,97922.0,Calendar Period,2023_November
+2023-12-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,196838.0,Calendar Period,2023_December
+2024-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,134046.0,Calendar Period,2024_January
+2024-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,154475.0,Calendar Period,2024_February
+2024-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,42097.0,Calendar Period,2024_March
+2024-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,219729.0,Calendar Period,2024_April
+2024-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,152038.0,Calendar Period,2024_May
+2024-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,134862.0,Calendar Period,2024_June
+2024-07-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,240229.0,Calendar Period,2024_July
+2024-08-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,128834.0,Calendar Period,2024_August
+2024-09-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,103848.0,Calendar Period,2024_September
+2024-10-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,62921.0,Calendar Period,2024_October
+2024-11-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,190798.0,Calendar Period,2024_November
+2024-12-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,136141.0,Calendar Period,2024_December
+2025-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,191372.0,Calendar Period,2025_January
+2025-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,32677.0,Calendar Period,2025_February
+2025-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,65609.0,Calendar Period,2025_March
+2025-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,237897.0,Calendar Period,2025_April
+2025-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,197733.0,Calendar Period,2025_May
+2025-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,41024.0,Calendar Period,2025_June
+2022-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,279.0,Calendar Period,2022_January
+2022-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,269.0,Calendar Period,2022_February
+2022-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,425.0,Calendar Period,2022_March
+2022-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,370.0,Calendar Period,2022_April
+2022-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,153.0,Calendar Period,2022_May
+2022-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,200.0,Calendar Period,2022_June
+2022-07-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,363.0,Calendar Period,2022_July
+2022-08-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,152.0,Calendar Period,2022_August
+2022-09-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,159.0,Calendar Period,2022_September
+2022-10-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,207.0,Calendar Period,2022_October
+2022-11-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,104.0,Calendar Period,2022_November
+2022-12-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,202.0,Calendar Period,2022_December
+2023-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,295.0,Calendar Period,2023_January
+2023-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,361.0,Calendar Period,2023_February
+2023-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,464.0,Calendar Period,2023_March
+2023-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,471.0,Calendar Period,2023_April
+2023-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,449.0,Calendar Period,2023_May
+2023-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,146.0,Calendar Period,2023_June
+2023-07-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,454.0,Calendar Period,2023_July
+2023-08-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,410.0,Calendar Period,2023_August
+2023-09-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,407.0,Calendar Period,2023_September
+2023-10-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,243.0,Calendar Period,2023_October
+2023-11-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,368.0,Calendar Period,2023_November
+2023-12-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,469.0,Calendar Period,2023_December
+2024-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,223.0,Calendar Period,2024_January
+2024-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,205.0,Calendar Period,2024_February
+2024-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,257.0,Calendar Period,2024_March
+2024-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,246.0,Calendar Period,2024_April
+2024-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,244.0,Calendar Period,2024_May
+2024-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,219.0,Calendar Period,2024_June
+2024-07-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,418.0,Calendar Period,2024_July
+2024-08-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,374.0,Calendar Period,2024_August
+2024-09-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,191.0,Calendar Period,2024_September
+2024-10-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,157.0,Calendar Period,2024_October
+2024-11-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,445.0,Calendar Period,2024_November
+2024-12-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,328.0,Calendar Period,2024_December
+2025-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,216.0,Calendar Period,2025_January
+2025-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,417.0,Calendar Period,2025_February
+2025-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,378.0,Calendar Period,2025_March
+2025-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,226.0,Calendar Period,2025_April
+2025-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,492.0,Calendar Period,2025_May
+2025-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,495.0,Calendar Period,2025_June
+2022-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,90.0,Calendar Period,2022_January
+2022-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,67.0,Calendar Period,2022_February
+2022-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,104.0,Calendar Period,2022_March
+2022-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,101.0,Calendar Period,2022_April
+2022-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,55.0,Calendar Period,2022_May
+2022-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,82.0,Calendar Period,2022_June
+2022-07-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,144.0,Calendar Period,2022_July
+2022-08-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,43.0,Calendar Period,2022_August
+2022-09-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Calendar Period,2022_September
+2022-10-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,87.0,Calendar Period,2022_October
+2022-11-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,38.0,Calendar Period,2022_November
+2022-12-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Calendar Period,2022_December
+2023-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,96.0,Calendar Period,2023_January
+2023-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,99.0,Calendar Period,2023_February
+2023-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,142.0,Calendar Period,2023_March
+2023-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,201.0,Calendar Period,2023_April
+2023-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,91.0,Calendar Period,2023_May
+2023-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,34.0,Calendar Period,2023_June
+2023-07-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,97.0,Calendar Period,2023_July
+2023-08-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,87.0,Calendar Period,2023_August
+2023-09-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,185.0,Calendar Period,2023_September
+2023-10-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,99.0,Calendar Period,2023_October
+2023-11-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,125.0,Calendar Period,2023_November
+2023-12-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,107.0,Calendar Period,2023_December
+2024-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Calendar Period,2024_January
+2024-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,70.0,Calendar Period,2024_February
+2024-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,64.0,Calendar Period,2024_March
+2024-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,81.0,Calendar Period,2024_April
+2024-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Calendar Period,2024_May
+2024-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,84.0,Calendar Period,2024_June
+2024-07-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,163.0,Calendar Period,2024_July
+2024-08-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,79.0,Calendar Period,2024_August
+2024-09-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,59.0,Calendar Period,2024_September
+2024-10-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,60.0,Calendar Period,2024_October
+2024-11-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,156.0,Calendar Period,2024_November
+2024-12-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,149.0,Calendar Period,2024_December
+2025-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,85.0,Calendar Period,2025_January
+2025-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,103.0,Calendar Period,2025_February
+2025-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,83.0,Calendar Period,2025_March
+2025-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,88.0,Calendar Period,2025_April
+2025-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,102.0,Calendar Period,2025_May
+2025-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,185.0,Calendar Period,2025_June
+2022-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07641381448549746,Calendar Period,2022_January
+2022-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.054528450672552735,Calendar Period,2022_February
+2022-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04329019557239131,Calendar Period,2022_March
+2022-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.05859729310654119,Calendar Period,2022_April
+2022-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.047495173429491,Calendar Period,2022_May
+2022-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.052737007358956096,Calendar Period,2022_June
+2022-07-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07648788852659151,Calendar Period,2022_July
+2022-08-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.043166158268046456,Calendar Period,2022_August
+2022-09-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07767143382943485,Calendar Period,2022_September
+2022-10-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07432103851736382,Calendar Period,2022_October
+2022-11-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.03174746808735779,Calendar Period,2022_November
+2022-12-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.024161678052509926,Calendar Period,2022_December
+2023-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.026046680082645598,Calendar Period,2023_January
+2023-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.021093309539092983,Calendar Period,2023_February
+2023-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.025666577645355702,Calendar Period,2023_March
+2023-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06098040640498141,Calendar Period,2023_April
+2023-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.02427131890761374,Calendar Period,2023_May
+2023-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.039138537817625677,Calendar Period,2023_June
+2023-07-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07069251865816727,Calendar Period,2023_July
+2023-08-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.021396316144149552,Calendar Period,2023_August
+2023-09-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06886810895533614,Calendar Period,2023_September
+2023-10-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.036911286486403995,Calendar Period,2023_October
+2023-11-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.027089889657299377,Calendar Period,2023_November
+2023-12-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06180422992184904,Calendar Period,2023_December
+2024-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.057736570806793036,Calendar Period,2024_January
+2024-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07264832081162317,Calendar Period,2024_February
+2024-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06410426262823314,Calendar Period,2024_March
+2024-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06820885582309091,Calendar Period,2024_April
+2024-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.03692207435427839,Calendar Period,2024_May
+2024-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.03064637262678337,Calendar Period,2024_June
+2024-07-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.0650368850984515,Calendar Period,2024_July
+2024-08-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06841008435603584,Calendar Period,2024_August
+2024-09-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07943030852004039,Calendar Period,2024_September
+2024-10-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04475706061468559,Calendar Period,2024_October
+2024-11-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04232108514756699,Calendar Period,2024_November
+2024-12-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06658477764451981,Calendar Period,2024_December
+2025-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04044821241518107,Calendar Period,2025_January
+2025-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07584543953621388,Calendar Period,2025_February
+2025-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07150476511058071,Calendar Period,2025_March
+2025-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.0457396416425011,Calendar Period,2025_April
+2025-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06505226406748985,Calendar Period,2025_May
+2025-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06527257244508095,Calendar Period,2025_June
+2022-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0028715968794704822,Calendar Period,2022_January
+2022-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.007135285867433379,Calendar Period,2022_February
+2022-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0055167551694043976,Calendar Period,2022_March
+2022-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00453007278305807,Calendar Period,2022_April
+2022-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00125453793927403,Calendar Period,2022_May
+2022-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0012543594504878994,Calendar Period,2022_June
+2022-07-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.000529818730044676,Calendar Period,2022_July
+2022-08-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00650970347873452,Calendar Period,2022_August
+2022-09-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004548251086899745,Calendar Period,2022_September
+2022-10-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0053397370756907364,Calendar Period,2022_October
+2022-11-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0002523252577889381,Calendar Period,2022_November
+2022-12-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.007277332905998758,Calendar Period,2022_December
+2023-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0062600755419231205,Calendar Period,2023_January
+2023-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0016713094190192435,Calendar Period,2023_February
+2023-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0014455047573325446,Calendar Period,2023_March
+2023-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0014571933729154102,Calendar Period,2023_April
+2023-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.002351392597900579,Calendar Period,2023_May
+2023-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00398319759407856,Calendar Period,2023_June
+2023-07-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0032963931379516565,Calendar Period,2023_July
+2023-08-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00225509563746551,Calendar Period,2023_August
+2023-09-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004627711420945608,Calendar Period,2023_September
+2023-10-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0011322545688251095,Calendar Period,2023_October
+2023-11-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0022618703991606143,Calendar Period,2023_November
+2023-12-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0028110776403733185,Calendar Period,2023_December
+2024-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0034749178832060657,Calendar Period,2024_January
+2024-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0059103021143083,Calendar Period,2024_February
+2024-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.001577585987971862,Calendar Period,2024_March
+2024-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0039053348442607255,Calendar Period,2024_April
+2024-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004483867809579114,Calendar Period,2024_May
+2024-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00044373305412798316,Calendar Period,2024_June
+2024-07-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004595831904070644,Calendar Period,2024_July
+2024-08-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0013618785152859573,Calendar Period,2024_August
+2024-09-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0005813817880910684,Calendar Period,2024_September
+2024-10-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0071217529756746655,Calendar Period,2024_October
+2024-11-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.007245677044751739,Calendar Period,2024_November
+2024-12-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.006082140376061812,Calendar Period,2024_December
+2025-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.002354141891882943,Calendar Period,2025_January
+2025-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0008227736436472406,Calendar Period,2025_February
+2025-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0051633243961899606,Calendar Period,2025_March
+2025-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0033571284536730492,Calendar Period,2025_April
+2025-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0010030829378513632,Calendar Period,2025_May
+2025-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.003764309134823399,Calendar Period,2025_June
+2022-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06279107911114418,Fiscal Period,FY2022_Q1
+2022-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05945409180630849,Fiscal Period,FY2022_Q1
+2022-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0591555218538237,Fiscal Period,FY2022_Q1
+2022-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05879009966262594,Fiscal Period,FY2022_Q2
+2022-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05674652176970444,Fiscal Period,FY2022_Q2
+2022-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.054605078198083044,Fiscal Period,FY2022_Q2
+2022-07-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.051952789853868954,Fiscal Period,FY2021_Q3
+2022-08-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05226053572188364,Fiscal Period,FY2021_Q3
+2022-09-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.049655150379876084,Fiscal Period,FY2021_Q3
+2022-10-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.055974019915571716,Fiscal Period,FY2021_Q4
+2022-11-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05662616307366768,Fiscal Period,FY2021_Q4
+2022-12-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.054963489403649805,Fiscal Period,FY2021_Q4
+2023-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.053310589445674864,Fiscal Period,FY2023_Q1
+2023-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.04800431148485191,Fiscal Period,FY2023_Q1
+2023-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.051071975118537546,Fiscal Period,FY2023_Q1
+2023-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0544872025211378,Fiscal Period,FY2023_Q2
+2023-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05841630687663458,Fiscal Period,FY2023_Q2
+2023-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0656362502160378,Fiscal Period,FY2023_Q2
+2023-07-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06250544989660503,Fiscal Period,FY2022_Q3
+2023-08-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06644937013678767,Fiscal Period,FY2022_Q3
+2023-09-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.059341889948544,Fiscal Period,FY2022_Q3
+2023-10-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.056712882202824076,Fiscal Period,FY2022_Q4
+2023-11-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0590156141859524,Fiscal Period,FY2022_Q4
+2023-12-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05503977636344086,Fiscal Period,FY2022_Q4
+2024-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05831597172616287,Fiscal Period,FY2024_Q1
+2024-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05285250288026627,Fiscal Period,FY2024_Q1
+2024-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.060740493718686644,Fiscal Period,FY2024_Q1
+2024-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.0509645180874506,Fiscal Period,FY2024_Q2
+2024-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05885287497956589,Fiscal Period,FY2024_Q2
+2024-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06674177699183964,Fiscal Period,FY2024_Q2
+2024-07-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.06408804204905638,Fiscal Period,FY2023_Q3
+2024-08-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.052490882480136024,Fiscal Period,FY2023_Q3
+2024-09-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05045557432700815,Fiscal Period,FY2023_Q3
+2024-10-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.049081329652437125,Fiscal Period,FY2023_Q4
+2024-11-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.047202996496290034,Fiscal Period,FY2023_Q4
+2024-12-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.054074173262057636,Fiscal Period,FY2023_Q4
+2025-01-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.051369750065413555,Fiscal Period,FY2025_Q1
+2025-02-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05498374938601732,Fiscal Period,FY2025_Q1
+2025-03-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05173489407933217,Fiscal Period,FY2025_Q1
+2025-04-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05286325450691842,Fiscal Period,FY2025_Q2
+2025-05-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.04874953085611487,Fiscal Period,FY2025_Q2
+2025-06-01,Home Loan Growth Rate (%),"The month-over-month percentage change in total home loan balances, indicating portfolio growth.",Sophie Tan,0.05420593692286827,Fiscal Period,FY2025_Q2
+2022-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04432946965146987,Fiscal Period,FY2022_Q1
+2022-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04454248465613614,Fiscal Period,FY2022_Q1
+2022-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04865771822080473,Fiscal Period,FY2022_Q1
+2022-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.051923469717200244,Fiscal Period,FY2022_Q2
+2022-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.057543763922696035,Fiscal Period,FY2022_Q2
+2022-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05496985139093489,Fiscal Period,FY2022_Q2
+2022-07-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04979021913676578,Fiscal Period,FY2021_Q3
+2022-08-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.048050539583232466,Fiscal Period,FY2021_Q3
+2022-09-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05093624081778195,Fiscal Period,FY2021_Q3
+2022-10-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05535307033409389,Fiscal Period,FY2021_Q4
+2022-11-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05593029426140955,Fiscal Period,FY2021_Q4
+2022-12-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.053260399738884474,Fiscal Period,FY2021_Q4
+2023-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05287495605700946,Fiscal Period,FY2023_Q1
+2023-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04944069444104934,Fiscal Period,FY2023_Q1
+2023-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04475692974484639,Fiscal Period,FY2023_Q1
+2023-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.0406085157209595,Fiscal Period,FY2023_Q2
+2023-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.03664739739424134,Fiscal Period,FY2023_Q2
+2023-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04275731023943819,Fiscal Period,FY2023_Q2
+2023-07-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04482195578026841,Fiscal Period,FY2022_Q3
+2023-08-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.049593370835048105,Fiscal Period,FY2022_Q3
+2023-09-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05230493146167123,Fiscal Period,FY2022_Q3
+2023-10-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.051654293942396706,Fiscal Period,FY2022_Q4
+2023-11-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.050672416261105975,Fiscal Period,FY2022_Q4
+2023-12-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.049152262907275535,Fiscal Period,FY2022_Q4
+2024-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04894732227070301,Fiscal Period,FY2024_Q1
+2024-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04561329213863465,Fiscal Period,FY2024_Q1
+2024-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04095529528234184,Fiscal Period,FY2024_Q1
+2024-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.040279526499965655,Fiscal Period,FY2024_Q2
+2024-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04880670392510345,Fiscal Period,FY2024_Q2
+2024-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05399039319160995,Fiscal Period,FY2024_Q2
+2024-07-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.058712217884174134,Fiscal Period,FY2023_Q3
+2024-08-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05812984726262558,Fiscal Period,FY2023_Q3
+2024-09-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.058085364235972554,Fiscal Period,FY2023_Q3
+2024-10-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05361702725972869,Fiscal Period,FY2023_Q4
+2024-11-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05382801134275128,Fiscal Period,FY2023_Q4
+2024-12-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05118471299291665,Fiscal Period,FY2023_Q4
+2025-01-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.057393413955696915,Fiscal Period,FY2025_Q1
+2025-02-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.05742873697003207,Fiscal Period,FY2025_Q1
+2025-03-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.055215349300594206,Fiscal Period,FY2025_Q1
+2025-04-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04824146699423034,Fiscal Period,FY2025_Q2
+2025-05-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04155990562041483,Fiscal Period,FY2025_Q2
+2025-06-01,ANZ Best Home Loan Rate (<80% LVR),The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%.,Daniel Green,0.04265094875695876,Fiscal Period,FY2025_Q2
+2022-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04103165563345655,Fiscal Period,FY2022_Q1
+2022-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06727961206236346,Fiscal Period,FY2022_Q1
+2022-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04776339944800051,Fiscal Period,FY2022_Q1
+2022-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.059875668530619465,Fiscal Period,FY2022_Q2
+2022-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.049351332282682334,Fiscal Period,FY2022_Q2
+2022-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.055602040635334325,Fiscal Period,FY2022_Q2
+2022-07-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.056401308380298394,Fiscal Period,FY2021_Q3
+2022-08-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04554563366576581,Fiscal Period,FY2021_Q3
+2022-09-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06908753883293677,Fiscal Period,FY2021_Q3
+2022-10-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06325398470083345,Fiscal Period,FY2021_Q4
+2022-11-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06818496824692567,Fiscal Period,FY2021_Q4
+2022-12-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06684482051282947,Fiscal Period,FY2021_Q4
+2023-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.05793699936433256,Fiscal Period,FY2023_Q1
+2023-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.0676562270506935,Fiscal Period,FY2023_Q1
+2023-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.042654775061557584,Fiscal Period,FY2023_Q1
+2023-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04587948587257436,Fiscal Period,FY2023_Q2
+2023-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04135681866731614,Fiscal Period,FY2023_Q2
+2023-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04975990992289793,Fiscal Period,FY2023_Q2
+2023-07-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.051660318690684465,Fiscal Period,FY2022_Q3
+2023-08-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04814047095321688,Fiscal Period,FY2022_Q3
+2023-09-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06486212527455788,Fiscal Period,FY2022_Q3
+2023-10-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.05070259980080768,Fiscal Period,FY2022_Q4
+2023-11-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.048428035290621424,Fiscal Period,FY2022_Q4
+2023-12-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.056280882494747456,Fiscal Period,FY2022_Q4
+2024-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04422772674924288,Fiscal Period,FY2024_Q1
+2024-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06406590942262119,Fiscal Period,FY2024_Q1
+2024-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04223651931039313,Fiscal Period,FY2024_Q1
+2024-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06960660809801553,Fiscal Period,FY2024_Q2
+2024-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06316734307889973,Fiscal Period,FY2024_Q2
+2024-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04596147044602517,Fiscal Period,FY2024_Q2
+2024-07-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04016566351370807,Fiscal Period,FY2023_Q3
+2024-08-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06446384285364504,Fiscal Period,FY2023_Q3
+2024-09-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06120572031542852,Fiscal Period,FY2023_Q3
+2024-10-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06187021504122962,Fiscal Period,FY2023_Q4
+2024-11-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06313811040057837,Fiscal Period,FY2023_Q4
+2024-12-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04222133955202271,Fiscal Period,FY2023_Q4
+2025-01-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.050753971856328184,Fiscal Period,FY2025_Q1
+2025-02-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04347607178575389,Fiscal Period,FY2025_Q1
+2025-03-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.06589310277626781,Fiscal Period,FY2025_Q1
+2025-04-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.05869894380482674,Fiscal Period,FY2025_Q2
+2025-05-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.049926940745579476,Fiscal Period,FY2025_Q2
+2025-06-01,Competitor Best Home Loan Rate (<80% LVR),The most competitive rate available in the market from other banks for customers with <80% LVR.,Ava Kapoor,0.04190675050858071,Fiscal Period,FY2025_Q2
+2022-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.028493872365571254,Fiscal Period,FY2022_Q1
+2022-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.027546787067619618,Fiscal Period,FY2022_Q1
+2022-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.015158832554303111,Fiscal Period,FY2022_Q1
+2022-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02319968092068358,Fiscal Period,FY2022_Q2
+2022-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.026344444004024314,Fiscal Period,FY2022_Q2
+2022-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.021104016231989244,Fiscal Period,FY2022_Q2
+2022-07-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02059301156712013,Fiscal Period,FY2021_Q3
+2022-08-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.014837045818009034,Fiscal Period,FY2021_Q3
+2022-09-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.011862055356117984,Fiscal Period,FY2021_Q3
+2022-10-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02794431515906653,Fiscal Period,FY2021_Q4
+2022-11-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.028008361143266606,Fiscal Period,FY2021_Q4
+2022-12-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02266202914546536,Fiscal Period,FY2021_Q4
+2023-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.016780595820974013,Fiscal Period,FY2023_Q1
+2023-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.016984191492253217,Fiscal Period,FY2023_Q1
+2023-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.024519113577404786,Fiscal Period,FY2023_Q1
+2023-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02794220519905154,Fiscal Period,FY2023_Q2
+2023-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.027741728485302344,Fiscal Period,FY2023_Q2
+2023-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.025597510917152476,Fiscal Period,FY2023_Q2
+2023-07-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.022840632923085753,Fiscal Period,FY2022_Q3
+2023-08-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.011682799299900976,Fiscal Period,FY2022_Q3
+2023-09-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.013232574281892276,Fiscal Period,FY2022_Q3
+2023-10-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.027971083770541583,Fiscal Period,FY2022_Q4
+2023-11-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.022128581193191797,Fiscal Period,FY2022_Q4
+2023-12-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.010183941032332593,Fiscal Period,FY2022_Q4
+2024-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.012029430857320642,Fiscal Period,FY2024_Q1
+2024-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.023270035382161113,Fiscal Period,FY2024_Q1
+2024-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.010101231676924375,Fiscal Period,FY2024_Q1
+2024-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.013216161028349972,Fiscal Period,FY2024_Q2
+2024-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.020974675787331722,Fiscal Period,FY2024_Q2
+2024-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.023837903953853865,Fiscal Period,FY2024_Q2
+2024-07-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02303922519005201,Fiscal Period,FY2023_Q3
+2024-08-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.014485386189211195,Fiscal Period,FY2023_Q3
+2024-09-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.024243584426950716,Fiscal Period,FY2023_Q3
+2024-10-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.014744981749936001,Fiscal Period,FY2023_Q4
+2024-11-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.016507993963185353,Fiscal Period,FY2023_Q4
+2024-12-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.024929828102360482,Fiscal Period,FY2023_Q4
+2025-01-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.02299265798094429,Fiscal Period,FY2025_Q1
+2025-02-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.026984468209883556,Fiscal Period,FY2025_Q1
+2025-03-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.023152257846006864,Fiscal Period,FY2025_Q1
+2025-04-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.021366172066709432,Fiscal Period,FY2025_Q2
+2025-05-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.011873495356561849,Fiscal Period,FY2025_Q2
+2025-06-01,Home Loan 3-Monthly Attrition Rate (%),The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period.,Lucas Wang,0.01735431606118867,Fiscal Period,FY2025_Q2
+2022-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4446.0,Fiscal Period,FY2022_Q1
+2022-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2045.0,Fiscal Period,FY2022_Q1
+2022-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3797.0,Fiscal Period,FY2022_Q1
+2022-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2693.0,Fiscal Period,FY2022_Q2
+2022-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3085.0,Fiscal Period,FY2022_Q2
+2022-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3277.0,Fiscal Period,FY2022_Q2
+2022-07-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4436.0,Fiscal Period,FY2021_Q3
+2022-08-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1562.0,Fiscal Period,FY2021_Q3
+2022-09-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3485.0,Fiscal Period,FY2021_Q3
+2022-10-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2799.0,Fiscal Period,FY2021_Q4
+2022-11-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4354.0,Fiscal Period,FY2021_Q4
+2022-12-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3074.0,Fiscal Period,FY2021_Q4
+2023-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1225.0,Fiscal Period,FY2023_Q1
+2023-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4348.0,Fiscal Period,FY2023_Q1
+2023-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1797.0,Fiscal Period,FY2023_Q1
+2023-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4680.0,Fiscal Period,FY2023_Q2
+2023-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3331.0,Fiscal Period,FY2023_Q2
+2023-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3926.0,Fiscal Period,FY2023_Q2
+2023-07-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1959.0,Fiscal Period,FY2022_Q3
+2023-08-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2504.0,Fiscal Period,FY2022_Q3
+2023-09-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1452.0,Fiscal Period,FY2022_Q3
+2023-10-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4067.0,Fiscal Period,FY2022_Q4
+2023-11-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4900.0,Fiscal Period,FY2022_Q4
+2023-12-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1815.0,Fiscal Period,FY2022_Q4
+2024-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1658.0,Fiscal Period,FY2024_Q1
+2024-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4587.0,Fiscal Period,FY2024_Q1
+2024-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1546.0,Fiscal Period,FY2024_Q1
+2024-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2215.0,Fiscal Period,FY2024_Q2
+2024-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4120.0,Fiscal Period,FY2024_Q2
+2024-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4583.0,Fiscal Period,FY2024_Q2
+2024-07-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,1016.0,Fiscal Period,FY2023_Q3
+2024-08-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4243.0,Fiscal Period,FY2023_Q3
+2024-09-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2243.0,Fiscal Period,FY2023_Q3
+2024-10-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3205.0,Fiscal Period,FY2023_Q4
+2024-11-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3524.0,Fiscal Period,FY2023_Q4
+2024-12-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2069.0,Fiscal Period,FY2023_Q4
+2025-01-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4444.0,Fiscal Period,FY2025_Q1
+2025-02-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3565.0,Fiscal Period,FY2025_Q1
+2025-03-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,3146.0,Fiscal Period,FY2025_Q1
+2025-04-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,4963.0,Fiscal Period,FY2025_Q2
+2025-05-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2768.0,Fiscal Period,FY2025_Q2
+2025-06-01,Home Loan Application Volume,The total number of home loan applications received by ANZ in a given month.,Emma Johnston,2060.0,Fiscal Period,FY2025_Q2
+2022-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,379.0,Fiscal Period,FY2022_Q1
+2022-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1472.0,Fiscal Period,FY2022_Q1
+2022-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,596.0,Fiscal Period,FY2022_Q1
+2022-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,401.0,Fiscal Period,FY2022_Q2
+2022-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,280.0,Fiscal Period,FY2022_Q2
+2022-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,706.0,Fiscal Period,FY2022_Q2
+2022-07-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1222.0,Fiscal Period,FY2021_Q3
+2022-08-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,799.0,Fiscal Period,FY2021_Q3
+2022-09-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1092.0,Fiscal Period,FY2021_Q3
+2022-10-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1239.0,Fiscal Period,FY2021_Q4
+2022-11-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,290.0,Fiscal Period,FY2021_Q4
+2022-12-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,352.0,Fiscal Period,FY2021_Q4
+2023-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1080.0,Fiscal Period,FY2023_Q1
+2023-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1027.0,Fiscal Period,FY2023_Q1
+2023-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1284.0,Fiscal Period,FY2023_Q1
+2023-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1379.0,Fiscal Period,FY2023_Q2
+2023-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1446.0,Fiscal Period,FY2023_Q2
+2023-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,227.0,Fiscal Period,FY2023_Q2
+2023-07-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,117.0,Fiscal Period,FY2022_Q3
+2023-08-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1916.0,Fiscal Period,FY2022_Q3
+2023-09-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1858.0,Fiscal Period,FY2022_Q3
+2023-10-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,665.0,Fiscal Period,FY2022_Q4
+2023-11-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,669.0,Fiscal Period,FY2022_Q4
+2023-12-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1446.0,Fiscal Period,FY2022_Q4
+2024-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1995.0,Fiscal Period,FY2024_Q1
+2024-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,785.0,Fiscal Period,FY2024_Q1
+2024-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1915.0,Fiscal Period,FY2024_Q1
+2024-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,725.0,Fiscal Period,FY2024_Q2
+2024-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1411.0,Fiscal Period,FY2024_Q2
+2024-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,953.0,Fiscal Period,FY2024_Q2
+2024-07-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1786.0,Fiscal Period,FY2023_Q3
+2024-08-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1061.0,Fiscal Period,FY2023_Q3
+2024-09-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1762.0,Fiscal Period,FY2023_Q3
+2024-10-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,254.0,Fiscal Period,FY2023_Q4
+2024-11-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,589.0,Fiscal Period,FY2023_Q4
+2024-12-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1509.0,Fiscal Period,FY2023_Q4
+2025-01-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,884.0,Fiscal Period,FY2025_Q1
+2025-02-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1227.0,Fiscal Period,FY2025_Q1
+2025-03-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1516.0,Fiscal Period,FY2025_Q1
+2025-04-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1934.0,Fiscal Period,FY2025_Q2
+2025-05-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,345.0,Fiscal Period,FY2025_Q2
+2025-06-01,BTL Home Loan Campaign Volume,The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell.,Raj Patel,1299.0,Fiscal Period,FY2025_Q2
+2022-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,115510.0,Fiscal Period,FY2022_Q1
+2022-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,64748.0,Fiscal Period,FY2022_Q1
+2022-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,15801.0,Fiscal Period,FY2022_Q1
+2022-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,160262.0,Fiscal Period,FY2022_Q2
+2022-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,190761.0,Fiscal Period,FY2022_Q2
+2022-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,245362.0,Fiscal Period,FY2022_Q2
+2022-07-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,192065.0,Fiscal Period,FY2021_Q3
+2022-08-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,39592.0,Fiscal Period,FY2021_Q3
+2022-09-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,20647.0,Fiscal Period,FY2021_Q3
+2022-10-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,149788.0,Fiscal Period,FY2021_Q4
+2022-11-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,229963.0,Fiscal Period,FY2021_Q4
+2022-12-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,228617.0,Fiscal Period,FY2021_Q4
+2023-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,230984.0,Fiscal Period,FY2023_Q1
+2023-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,120627.0,Fiscal Period,FY2023_Q1
+2023-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,80316.0,Fiscal Period,FY2023_Q1
+2023-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,12368.0,Fiscal Period,FY2023_Q2
+2023-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,87575.0,Fiscal Period,FY2023_Q2
+2023-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,16655.0,Fiscal Period,FY2023_Q2
+2023-07-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,247549.0,Fiscal Period,FY2022_Q3
+2023-08-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,80031.0,Fiscal Period,FY2022_Q3
+2023-09-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,217501.0,Fiscal Period,FY2022_Q3
+2023-10-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,232155.0,Fiscal Period,FY2022_Q4
+2023-11-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,97922.0,Fiscal Period,FY2022_Q4
+2023-12-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,196838.0,Fiscal Period,FY2022_Q4
+2024-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,134046.0,Fiscal Period,FY2024_Q1
+2024-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,154475.0,Fiscal Period,FY2024_Q1
+2024-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,42097.0,Fiscal Period,FY2024_Q1
+2024-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,219729.0,Fiscal Period,FY2024_Q2
+2024-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,152038.0,Fiscal Period,FY2024_Q2
+2024-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,134862.0,Fiscal Period,FY2024_Q2
+2024-07-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,240229.0,Fiscal Period,FY2023_Q3
+2024-08-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,128834.0,Fiscal Period,FY2023_Q3
+2024-09-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,103848.0,Fiscal Period,FY2023_Q3
+2024-10-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,62921.0,Fiscal Period,FY2023_Q4
+2024-11-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,190798.0,Fiscal Period,FY2023_Q4
+2024-12-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,136141.0,Fiscal Period,FY2023_Q4
+2025-01-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,191372.0,Fiscal Period,FY2025_Q1
+2025-02-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,32677.0,Fiscal Period,FY2025_Q1
+2025-03-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,65609.0,Fiscal Period,FY2025_Q1
+2025-04-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,237897.0,Fiscal Period,FY2025_Q2
+2025-05-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,197733.0,Fiscal Period,FY2025_Q2
+2025-06-01,ATL Marketing Spend ($),"Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising.",Natalie Chen,41024.0,Fiscal Period,FY2025_Q2
+2022-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,279.0,Fiscal Period,FY2022_Q1
+2022-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,269.0,Fiscal Period,FY2022_Q1
+2022-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,425.0,Fiscal Period,FY2022_Q1
+2022-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,370.0,Fiscal Period,FY2022_Q2
+2022-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,153.0,Fiscal Period,FY2022_Q2
+2022-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,200.0,Fiscal Period,FY2022_Q2
+2022-07-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,363.0,Fiscal Period,FY2021_Q3
+2022-08-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,152.0,Fiscal Period,FY2021_Q3
+2022-09-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,159.0,Fiscal Period,FY2021_Q3
+2022-10-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,207.0,Fiscal Period,FY2021_Q4
+2022-11-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,104.0,Fiscal Period,FY2021_Q4
+2022-12-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,202.0,Fiscal Period,FY2021_Q4
+2023-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,295.0,Fiscal Period,FY2023_Q1
+2023-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,361.0,Fiscal Period,FY2023_Q1
+2023-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,464.0,Fiscal Period,FY2023_Q1
+2023-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,471.0,Fiscal Period,FY2023_Q2
+2023-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,449.0,Fiscal Period,FY2023_Q2
+2023-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,146.0,Fiscal Period,FY2023_Q2
+2023-07-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,454.0,Fiscal Period,FY2022_Q3
+2023-08-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,410.0,Fiscal Period,FY2022_Q3
+2023-09-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,407.0,Fiscal Period,FY2022_Q3
+2023-10-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,243.0,Fiscal Period,FY2022_Q4
+2023-11-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,368.0,Fiscal Period,FY2022_Q4
+2023-12-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,469.0,Fiscal Period,FY2022_Q4
+2024-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,223.0,Fiscal Period,FY2024_Q1
+2024-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,205.0,Fiscal Period,FY2024_Q1
+2024-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,257.0,Fiscal Period,FY2024_Q1
+2024-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,246.0,Fiscal Period,FY2024_Q2
+2024-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,244.0,Fiscal Period,FY2024_Q2
+2024-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,219.0,Fiscal Period,FY2024_Q2
+2024-07-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,418.0,Fiscal Period,FY2023_Q3
+2024-08-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,374.0,Fiscal Period,FY2023_Q3
+2024-09-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,191.0,Fiscal Period,FY2023_Q3
+2024-10-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,157.0,Fiscal Period,FY2023_Q4
+2024-11-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,445.0,Fiscal Period,FY2023_Q4
+2024-12-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,328.0,Fiscal Period,FY2023_Q4
+2025-01-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,216.0,Fiscal Period,FY2025_Q1
+2025-02-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,417.0,Fiscal Period,FY2025_Q1
+2025-03-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,378.0,Fiscal Period,FY2025_Q1
+2025-04-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,226.0,Fiscal Period,FY2025_Q2
+2025-05-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,492.0,Fiscal Period,FY2025_Q2
+2025-06-01,Overall Complaints Volume,Total number of customer complaints received across all products and services in a month.,Ben Clarke,495.0,Fiscal Period,FY2025_Q2
+2022-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,90.0,Fiscal Period,FY2022_Q1
+2022-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,67.0,Fiscal Period,FY2022_Q1
+2022-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,104.0,Fiscal Period,FY2022_Q1
+2022-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,101.0,Fiscal Period,FY2022_Q2
+2022-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,55.0,Fiscal Period,FY2022_Q2
+2022-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,82.0,Fiscal Period,FY2022_Q2
+2022-07-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,144.0,Fiscal Period,FY2021_Q3
+2022-08-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,43.0,Fiscal Period,FY2021_Q3
+2022-09-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Fiscal Period,FY2021_Q3
+2022-10-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,87.0,Fiscal Period,FY2021_Q4
+2022-11-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,38.0,Fiscal Period,FY2021_Q4
+2022-12-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Fiscal Period,FY2021_Q4
+2023-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,96.0,Fiscal Period,FY2023_Q1
+2023-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,99.0,Fiscal Period,FY2023_Q1
+2023-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,142.0,Fiscal Period,FY2023_Q1
+2023-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,201.0,Fiscal Period,FY2023_Q2
+2023-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,91.0,Fiscal Period,FY2023_Q2
+2023-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,34.0,Fiscal Period,FY2023_Q2
+2023-07-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,97.0,Fiscal Period,FY2022_Q3
+2023-08-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,87.0,Fiscal Period,FY2022_Q3
+2023-09-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,185.0,Fiscal Period,FY2022_Q3
+2023-10-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,99.0,Fiscal Period,FY2022_Q4
+2023-11-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,125.0,Fiscal Period,FY2022_Q4
+2023-12-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,107.0,Fiscal Period,FY2022_Q4
+2024-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Fiscal Period,FY2024_Q1
+2024-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,70.0,Fiscal Period,FY2024_Q1
+2024-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,64.0,Fiscal Period,FY2024_Q1
+2024-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,81.0,Fiscal Period,FY2024_Q2
+2024-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,77.0,Fiscal Period,FY2024_Q2
+2024-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,84.0,Fiscal Period,FY2024_Q2
+2024-07-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,163.0,Fiscal Period,FY2023_Q3
+2024-08-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,79.0,Fiscal Period,FY2023_Q3
+2024-09-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,59.0,Fiscal Period,FY2023_Q3
+2024-10-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,60.0,Fiscal Period,FY2023_Q4
+2024-11-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,156.0,Fiscal Period,FY2023_Q4
+2024-12-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,149.0,Fiscal Period,FY2023_Q4
+2025-01-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,85.0,Fiscal Period,FY2025_Q1
+2025-02-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,103.0,Fiscal Period,FY2025_Q1
+2025-03-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,83.0,Fiscal Period,FY2025_Q1
+2025-04-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,88.0,Fiscal Period,FY2025_Q2
+2025-05-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,102.0,Fiscal Period,FY2025_Q2
+2025-06-01,Home Loan Complaints Volume,Subset of total complaints specifically related to home loan products and services.,Mia Robinson,185.0,Fiscal Period,FY2025_Q2
+2022-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07641381448549746,Fiscal Period,FY2022_Q1
+2022-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.054528450672552735,Fiscal Period,FY2022_Q1
+2022-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04329019557239131,Fiscal Period,FY2022_Q1
+2022-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.05859729310654119,Fiscal Period,FY2022_Q2
+2022-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.047495173429491,Fiscal Period,FY2022_Q2
+2022-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.052737007358956096,Fiscal Period,FY2022_Q2
+2022-07-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07648788852659151,Fiscal Period,FY2021_Q3
+2022-08-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.043166158268046456,Fiscal Period,FY2021_Q3
+2022-09-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07767143382943485,Fiscal Period,FY2021_Q3
+2022-10-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07432103851736382,Fiscal Period,FY2021_Q4
+2022-11-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.03174746808735779,Fiscal Period,FY2021_Q4
+2022-12-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.024161678052509926,Fiscal Period,FY2021_Q4
+2023-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.026046680082645598,Fiscal Period,FY2023_Q1
+2023-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.021093309539092983,Fiscal Period,FY2023_Q1
+2023-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.025666577645355702,Fiscal Period,FY2023_Q1
+2023-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06098040640498141,Fiscal Period,FY2023_Q2
+2023-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.02427131890761374,Fiscal Period,FY2023_Q2
+2023-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.039138537817625677,Fiscal Period,FY2023_Q2
+2023-07-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07069251865816727,Fiscal Period,FY2022_Q3
+2023-08-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.021396316144149552,Fiscal Period,FY2022_Q3
+2023-09-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06886810895533614,Fiscal Period,FY2022_Q3
+2023-10-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.036911286486403995,Fiscal Period,FY2022_Q4
+2023-11-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.027089889657299377,Fiscal Period,FY2022_Q4
+2023-12-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06180422992184904,Fiscal Period,FY2022_Q4
+2024-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.057736570806793036,Fiscal Period,FY2024_Q1
+2024-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07264832081162317,Fiscal Period,FY2024_Q1
+2024-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06410426262823314,Fiscal Period,FY2024_Q1
+2024-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06820885582309091,Fiscal Period,FY2024_Q2
+2024-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.03692207435427839,Fiscal Period,FY2024_Q2
+2024-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.03064637262678337,Fiscal Period,FY2024_Q2
+2024-07-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.0650368850984515,Fiscal Period,FY2023_Q3
+2024-08-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06841008435603584,Fiscal Period,FY2023_Q3
+2024-09-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07943030852004039,Fiscal Period,FY2023_Q3
+2024-10-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04475706061468559,Fiscal Period,FY2023_Q4
+2024-11-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04232108514756699,Fiscal Period,FY2023_Q4
+2024-12-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06658477764451981,Fiscal Period,FY2023_Q4
+2025-01-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.04044821241518107,Fiscal Period,FY2025_Q1
+2025-02-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07584543953621388,Fiscal Period,FY2025_Q1
+2025-03-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.07150476511058071,Fiscal Period,FY2025_Q1
+2025-04-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.0457396416425011,Fiscal Period,FY2025_Q2
+2025-05-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06505226406748985,Fiscal Period,FY2025_Q2
+2025-06-01,BTL Campaign Conversion Rate,The percentage of customers targeted by BTL campaigns who converted to home loan products.,Zara Lin,0.06527257244508095,Fiscal Period,FY2025_Q2
+2022-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0028715968794704822,Fiscal Period,FY2022_Q1
+2022-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.007135285867433379,Fiscal Period,FY2022_Q1
+2022-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0055167551694043976,Fiscal Period,FY2022_Q1
+2022-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00453007278305807,Fiscal Period,FY2022_Q2
+2022-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00125453793927403,Fiscal Period,FY2022_Q2
+2022-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0012543594504878994,Fiscal Period,FY2022_Q2
+2022-07-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.000529818730044676,Fiscal Period,FY2021_Q3
+2022-08-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00650970347873452,Fiscal Period,FY2021_Q3
+2022-09-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004548251086899745,Fiscal Period,FY2021_Q3
+2022-10-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0053397370756907364,Fiscal Period,FY2021_Q4
+2022-11-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0002523252577889381,Fiscal Period,FY2021_Q4
+2022-12-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.007277332905998758,Fiscal Period,FY2021_Q4
+2023-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0062600755419231205,Fiscal Period,FY2023_Q1
+2023-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0016713094190192435,Fiscal Period,FY2023_Q1
+2023-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0014455047573325446,Fiscal Period,FY2023_Q1
+2023-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0014571933729154102,Fiscal Period,FY2023_Q2
+2023-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.002351392597900579,Fiscal Period,FY2023_Q2
+2023-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00398319759407856,Fiscal Period,FY2023_Q2
+2023-07-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0032963931379516565,Fiscal Period,FY2022_Q3
+2023-08-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00225509563746551,Fiscal Period,FY2022_Q3
+2023-09-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004627711420945608,Fiscal Period,FY2022_Q3
+2023-10-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0011322545688251095,Fiscal Period,FY2022_Q4
+2023-11-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0022618703991606143,Fiscal Period,FY2022_Q4
+2023-12-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0028110776403733185,Fiscal Period,FY2022_Q4
+2024-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0034749178832060657,Fiscal Period,FY2024_Q1
+2024-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0059103021143083,Fiscal Period,FY2024_Q1
+2024-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.001577585987971862,Fiscal Period,FY2024_Q1
+2024-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0039053348442607255,Fiscal Period,FY2024_Q2
+2024-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004483867809579114,Fiscal Period,FY2024_Q2
+2024-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.00044373305412798316,Fiscal Period,FY2024_Q2
+2024-07-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.004595831904070644,Fiscal Period,FY2023_Q3
+2024-08-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0013618785152859573,Fiscal Period,FY2023_Q3
+2024-09-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0005813817880910684,Fiscal Period,FY2023_Q3
+2024-10-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0071217529756746655,Fiscal Period,FY2023_Q4
+2024-11-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.007245677044751739,Fiscal Period,FY2023_Q4
+2024-12-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.006082140376061812,Fiscal Period,FY2023_Q4
+2025-01-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.002354141891882943,Fiscal Period,FY2025_Q1
+2025-02-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0008227736436472406,Fiscal Period,FY2025_Q1
+2025-03-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0051633243961899606,Fiscal Period,FY2025_Q1
+2025-04-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0033571284536730492,Fiscal Period,FY2025_Q2
+2025-05-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.0010030829378513632,Fiscal Period,FY2025_Q2
+2025-06-01,System Growth Rate,Overall market or system-level growth rate for home loans across the banking sector.,Jack Neill,0.003764309134823399,Fiscal Period,FY2025_Q2

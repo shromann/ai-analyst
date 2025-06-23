@@ -1,0 +1,31 @@
+forecast_name:
+  Correlated 1: service_line_1
+  Correlated 2: service_line_2
+  Lead: service_line_3
+  Lag: service_line_4
+  NegLead: service_line_5
+  NegLag: service_line_6
+  Indep 1: service_line_7
+  Indep 2: service_line_8
+
+sub_stream:
+  sub_stream_1:
+    - service_line_1
+    - service_line_2
+  sub_stream_2:
+    - service_line_3
+    - service_line_4
+  sub_stream_3:
+    - service_line_5
+    - service_line_6
+  sub_stream_4:
+    - service_line_7
+    - service_line_8
+
+stream:
+  stream_A:
+    - sub_stream_1
+    - sub_stream_2
+  stream_B:
+    - sub_stream_3
+    - sub_stream_4

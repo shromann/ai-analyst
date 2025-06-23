@@ -1,0 +1,43 @@
+Home Loan Growth Rate (%):
+  description: "The month-over-month percentage change in total home loan balances, indicating portfolio growth."
+  owner: "Sophie Tan"
+
+ANZ Best Home Loan Rate (<80% LVR):
+  description: "The lowest interest rate offered by ANZ to customers with a loan-to-value ratio under 80%."
+  owner: "Daniel Green"
+
+Competitor Best Home Loan Rate (<80% LVR):
+  description: "The most competitive rate available in the market from other banks for customers with <80% LVR."
+  owner: "Ava Kapoor"
+
+Home Loan 3-Monthly Attrition Rate (%):
+  description: "The percentage of home loan accounts closed or refinanced away from ANZ over a 3-month period."
+  owner: "Lucas Wang"
+
+Home Loan Application Volume:
+  description: "The total number of home loan applications received by ANZ in a given month."
+  owner: "Emma Johnston"
+
+BTL Home Loan Campaign Volume:
+  description: "The number of below-the-line marketing campaigns targeting non-home loan customers for cross-sell."
+  owner: "Raj Patel"
+
+ATL Marketing Spend ($):
+  description: "Monthly expenditure on above-the-line marketing efforts, including TV, radio, digital, and print advertising."
+  owner: "Natalie Chen"
+
+Overall Complaints Volume:
+  description: "Total number of customer complaints received across all products and services in a month."
+  owner: "Ben Clarke"
+
+Home Loan Complaints Volume:
+  description: "Subset of total complaints specifically related to home loan products and services."
+  owner: "Mia Robinson"
+
+BTL Campaign Conversion Rate:
+  description: "The percentage of customers targeted by BTL campaigns who converted to home loan products."
+  owner: "Zara Lin"
+
+System Growth Rate:
+  description: "Overall market or system-level growth rate for home loans across the banking sector."
+  owner: "Jack Neill"
